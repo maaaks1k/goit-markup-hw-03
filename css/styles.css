@@ -75,9 +75,15 @@ img {
 }
 
 .text-button-box {
+  padding: 188px 0;
   background-color: #2e2f42;
 }
 .order-button {
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  border-radius: 4px;
   cursor: pointer;
   font-weight: 500;
   line-height: 1.5;
@@ -186,4 +192,7 @@ img {
 .header-logo {
   padding: 24px 0;
   margin-right: 76px;
+}
+.first_block .title{
+  max-width: 496px;
 }
