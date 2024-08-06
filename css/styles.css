@@ -80,19 +80,21 @@ img {
   background-color: #2e2f42;
 }
 .title {
-  max-width: 496px
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: #fff;
 }
+.h1_text{
+    max-width: 496px;
+}
 .text-button-box {
   background-color: #2e2f42;
   padding: 188px 0 188px;
 }
 .order-button {
-  margin: auto ;
+  margin: auto;
   display: block;
   min-width: 169px;
   height: 56px;
