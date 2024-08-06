@@ -231,12 +231,12 @@ img {
 }
 
 /* Section 3 */
-.team {
+.our-team-box{
   background-color: #f4f4fd;
   padding: 120px 0 120px;
 }
 
-.our-team-box {
+.team-list {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
